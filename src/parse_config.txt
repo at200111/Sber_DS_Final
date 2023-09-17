@@ -1,0 +1,3 @@
+[{"orientation":"long", "path": [{"key":"defaultState"}, "value", "offerData", "offer"], "drop": ["publishTerms.", "moderationInfo.", "photos", "phones", "areaParts", "videos", "categoriesIds", "buildersIds", "cianLayouts", "geo.", "specialty.", "bargainTerms.includedOptions", "bargainTerms.tags", "building.liftTypes", "building.cranageTypes"], "norm": ["geo.undergrounds"]},
+{"orientation":"wide", "path": [{"key":"defaultState"}, "value", "offerData", "priceChanges"]},
+{"orientation":"long", "path": [{"key":"defaultState"}, "value", "offerData", "bti"]}]

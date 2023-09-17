@@ -1,0 +1,5 @@
+{"target": "priceTotal",
+"cat_cols": ["building.materialType", "building.parking.type", "building.series", "newbuilding.newbuildingFeatures.deadlineInfo", "repairType", "windowsViewType"],
+"int_cols": ["building.buildYear", "building.floorsCount", "cargoLiftsCount", "floorNumber", "loggiasCount", "passengerLiftsCount", "roomsCount"],
+"float_cols": ["building.ceilingHeight", "kitchenArea", "livingArea", "totalArea"],
+"bool_cols": ["building.hasGarbageChute", "isApartments", "isFromBuilder", "isPenthouse", "newbuilding.house.isFinished"]}
